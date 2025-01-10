@@ -26,13 +26,6 @@
 <a href="https://www.instagram.com/_saharist_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=sahar-ghazanfari">
-</p>
-
-## 📊 Github Status
+## 🌟 projects
+1.dashboard : https://dashboards-flame.vercel.app
+2.tarkhineh : https://tarkhineh-phi.vercel.app
