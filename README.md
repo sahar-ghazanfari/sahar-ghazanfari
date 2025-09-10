@@ -8,7 +8,7 @@
 ---
 
 ## 💻 **مهارت‌ها**
-<img src="https://media.tenor.com/bzmcx.gif" alt="Your GIF" width="200px" height="100px">
+<img src="https://media.tenor.com/-DREZBSEe-AAAAAj/veryhappypepe.gif" alt="Your GIF" width="100px" height="100px">
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px">
