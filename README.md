@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="30px">
 <img src="https://img.shields.io/badge/HeroUI-%2300BFFF.svg?style=for-the-badge&logo=heroui&logoColor=white" height="30px">
 </p>
-## راه های ارتباطی با من
+## 👥 راه‌های ارتباط با من
+
 <a href="mailto:saharghazanfariast@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30px">
 </a>
