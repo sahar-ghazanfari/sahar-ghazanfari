@@ -22,9 +22,10 @@
 
 ## 👥 **راه‌های ارتباط با من**
 <p>
-<a href="mailto:saharghazanfariast@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=saharghazanfariast@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30px">
 </a>
+
 <a href="https://linkedin.com/in/sahar-ghazanfari-b763521b5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
 </a>
