@@ -44,7 +44,7 @@
 - **Navato** – دمو بازسازی شده از پروژه شرکت سابق، داده‌ها فیک هستند و هیچ ارتباطی با سیستم اصلی ندارد.  
   [مشاهده](https://navato-7atr.vercel.app)
   
-- **Dashboard** – داشبورد مدیریت واکنش‌گرا با React و Tailwind.(phone:09123456789 pass:sahar12345)
+- **Dashboard** – داشبورد مدیریت واکنش‌گرا با React و Tailwind.(Phone: 09123456789 | Password: sahar12345)
 
   [مشاهده](https://dashboards-flame.vercel.app)
 
