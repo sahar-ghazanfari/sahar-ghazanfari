@@ -32,6 +32,8 @@
 <a href="https://linkedin.com/in/sahar-ghazanfari-b763521b5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
 </a>
+
+<img src="https://media.tenor.com/-DREZBSEe-AAAAAj/veryhappypepe.gif" alt="Your GIF" width="100px" height="100px">
 </p>
 
 ---
