@@ -2,7 +2,8 @@
 
 من یک **توسعه‌دهنده فرانت‌اند**، در تهران، متولد سال **۱۳۸۲** هستم.  
 هدفم اینه که در **برنامه‌نویسی حرفه‌ای** بشم و مهارت‌هام رو ارتقا بدم.
-<img src="https://c.tenor.com/E2coFgQjRxgAAAAC/tenor.gif" height="50px">
+
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30px">
 
 ---
 
