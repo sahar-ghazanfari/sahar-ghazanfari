@@ -1,9 +1,9 @@
 ## سلام، من سحرم! 👋
-
-<img src="https://media.tenor.com/E2coFgQjRxgAAAAC/kevin.gif" alt="Kevin GIF" width="200px" height="100px">
 من یک **توسعه‌دهنده فرانت‌اند**، در تهران، متولد سال **۱۳۸۲** هستم.  
 هدفم اینه که در **برنامه‌نویسی حرفه‌ای** بشم و مهارت‌هام رو ارتقا بدم.
 
+
+<img src="https://media.tenor.com/E2coFgQjRxgAAAAC/kevin.gif" alt="Kevin GIF" width="200px" height="100px">
 
 ---
 
